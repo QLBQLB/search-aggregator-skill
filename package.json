@@ -1,0 +1,32 @@
+{
+  "name": "search-aggregator-mcp",
+  "version": "1.0.0",
+  "description": "Aggregated search service with concurrent recall, URL deduplication, and caching",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "mcp",
+    "search",
+    "aggregation",
+    "deduplication"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
