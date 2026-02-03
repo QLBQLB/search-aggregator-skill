@@ -4,11 +4,11 @@ This directory contains Request for Comments (RFC) documents for the search-aggr
 
 ## RFC List
 
-| RFC | Title | Status | Created |
-|-----|-------|--------|--------|
-| [001](./001-dynamic-weighting.md) | Dynamic Weighting for Search Engines | Draft | 2026-02-03 |
-| [002](./002-visual-progress.md) | Visual Progress Indication for Deep Research | Draft | 2026-02-03 |
-| [003](./003-feedback-loop.md) | Feedback Loop for Result Quality Optimization | Draft | 2026-02-03 |
+| RFC | Title | Status | Issue | Created |
+|-----|-------|--------|-------|--------|
+| [001](./001-dynamic-weighting.md) | Dynamic Weighting for Search Engines | Draft | [#1](https://github.com/QLBQLB/search-aggregator-skill/issues/1) | 2026-02-03 |
+| [002](./002-visual-progress.md) | Visual Progress Indication for Deep Research | Draft | [#2](https://github.com/QLBQLB/search-aggregator-skill/issues/2) | 2026-02-03 |
+| [003](./003-feedback-loop.md) | Feedback Loop for Result Quality Optimization | Draft | [#3](https://github.com/QLBQLB/search-aggregator-skill/issues/3) | 2026-02-03 |
 
 ## RFC Process
 
