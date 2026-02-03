@@ -3,7 +3,7 @@
 > **Status**: Draft
 > **Created**: 2026-02-03
 > **Author**: @QLBQLB
-> **Issue**: #[TBD]
+> **Issue**: #2
 
 ---
 
